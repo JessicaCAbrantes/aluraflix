@@ -1,4 +1,4 @@
-# Aluraflix
+# Aluraflix 2025
 
 Aluraflix é uma aplicação de catálogo de vídeos inspirada, projetada para gerenciar e visualizar vídeos organizados por categorias. Este projeto faz parte dos desafios do programa Oracle Next Education (ONE).
 
@@ -49,5 +49,5 @@ Siga estas etapas para instalar e executar o projeto localmente:
 2. Edite os vídeos diretamente pela interface usando o ícone de edição.
 3. Exclua vídeos usando o ícone de lixeira com confirmação de segurança.
 
-
+From Alura
 
